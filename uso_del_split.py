@@ -1,0 +1,6 @@
+entrada=input()
+salida = entrada.split()
+salida_con_join = "-".join(salida)
+print(salida)
+print(salida_con_join)
+print(salida[5])
